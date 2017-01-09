@@ -1,0 +1,34 @@
+typography_spectrum: 0.7974362573586404
+color:
+  brandStrength: 0.6207829585764557
+  lightness: 0.7622659474145621
+  saturation: 0.5889047640375793
+  rhythmicContrast: 0.0353383703622967
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+github: true
+layout_spectrum: 0.2193932479713112
+analytics:
+  twitter: GraceStoneOrg
+author:
+  name: Glenn Rutland
+  email: glenn.rutland@gracestone.org
+  url: 'https:gracestone.org'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4651ad60-f1b8-473d-9871-3482b41867bd.png
+name: GraceStonePublishing
+url: 'https://gracestone.org'
+title: Grace Stone Publishing
+content: []
+description: Fiction and Nonfiction to Entertain and Grow
+purpose:
+  - type: contact
+    url: 'tel:860-431-5418'
+    label: Call 860-431-5418
+  - type: contact
+    url: 'mailto:submissions@gracestone.org'
+    label: Contact Us
